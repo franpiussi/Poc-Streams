@@ -38,7 +38,7 @@ public class Persona {
 
     @Override
     public String toString(){
-        return " nombre: " + this.getNombre() + " edad: " + this.getEdad() + " DNI: " + this.getDNI();
+        return "nombre: " + this.getNombre() + " edad: " + this.getEdad() + " DNI: " + this.getDNI();
     }
 
 }
